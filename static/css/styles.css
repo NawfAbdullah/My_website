@@ -1,0 +1,101 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather Sans', sans-serif;
+	color: #40514E;
+	}
+
+
+p{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	color: #66BFBF; 
+	font-size: 562.5%;
+	margin:50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+}
+
+nav{
+	padding: 0;
+	text-align: right;
+}
+
+#title{
+	background-color: #6fe7dd;
+	color: #fff;
+	text-align: center;
+
+}
+
+.mine{
+	border-radius: 100%;
+}
+
+.container-fluid{
+	padding: 0 0 10px;
+}
+.bottom-cloud {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+	
+}
+
+.tit-nav{
+	color: #07689F;
+}
+
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.text-img{
+	padding: 20px 7px 5px;
+}
+
+/*About me*/
+.doc-img{
+	width: 25%;
+	float: right;
+	margin-left : 30px;
+}
+.my_description{
+	width: 50%;
+	margin:100px auto;
+	text-align: left;
+	line-height: 2; 
+}
+
+
+/*Projects Section */
+#projects{
+	background-color: #F85F73;
+}
+
+.programms{
+	padding: 15px 7px;
+}
+
+.projects-text{
+	font-family:'Merriweather Sans', sans-serif;
+	color: #fff;
+	line-height: 2;
+}
+
+#footer{
+	text-align: center;
+	line-height: 1.5;
+	padding: 7% 15%;
+}
+
+.social-icon{
+	margin: 20px 10px;
+	color: #66BFBF;
+}
+
+.c-b{
+	margin: 10px 3px;
+}
