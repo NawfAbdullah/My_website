@@ -102,12 +102,12 @@ nav{
 
 @media (max-width: 900px){
 	.top-cloud{
-	  position: static;
+	  visibility: hidden; 
 	}
 
 	.bottom-cloud {
 	
-	position: static;
+	visibility: hidden; 
 	
     }
     .elon-img{
