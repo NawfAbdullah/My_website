@@ -50,7 +50,7 @@ nav{
 .top-cloud {
 	position: absolute;
 	right: 300px;
-	top: 50px;
+	top: 70px;
 }
 .text-img{
 	padding: 20px 7px 5px;
@@ -98,4 +98,25 @@ nav{
 
 .c-b{
 	margin: 10px 3px;
+}
+
+@media (max-width: 900px){
+	.top-cloud{
+	  position: absolute;
+	  right: 470px;
+	  top: 70px;
+	}
+
+	.bottom-cloud {
+	
+	position: absolute;
+	left: 470px;
+	bottom: 40px;
+	
+    }
+    .elon-img{
+    	max-width: 50%;
+    	max-height: 50%;
+    }
+
 }
