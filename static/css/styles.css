@@ -102,16 +102,12 @@ nav{
 
 @media (max-width: 900px){
 	.top-cloud{
-	  position: absolute;
-	  right: 470px;
-	  top: 70px;
+	  position: static;
 	}
 
 	.bottom-cloud {
 	
-	position: absolute;
-	left: 470px;
-	bottom: 40px;
+	position: static;
 	
     }
     .elon-img{
