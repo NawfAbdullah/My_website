@@ -100,7 +100,7 @@ nav{
 	margin: 10px 3px;
 }
 
-@media (max-width: 900px){
+@media (max-width: 2388px){
 	.top-cloud{
 	  visibility: hidden; 
 	}
